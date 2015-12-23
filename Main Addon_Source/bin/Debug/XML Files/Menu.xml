@@ -1,0 +1,22 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<!--<Menu Checked="0" Enabled="1" FatherUID="43540" Image="" Position="0" String="Stock Transfer Request"
+				Type="1" UniqueID="DABT_511">
+			</Menu>-->
+			<!--<Menu Checked="0" Enabled="1" FatherUID="43540" Image="" Position="1" String="Goods Issue to Branch"
+			Type="1" UniqueID="DABT_512">
+			</Menu>-->
+
+      <Menu Checked="0" Enabled="1" FatherUID="8448" Image="" Position="2" String="Document Synchronization Setup"
+      Type="1" UniqueID="mnu_Draft">
+      </Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="8448" Image="" Position="3" String="Reset-Journal Document Number"
+     Type="1" UniqueID="mnu_Update">
+      </Menu>
+
+
+    </action>
+	</Menus>
+</Application>
